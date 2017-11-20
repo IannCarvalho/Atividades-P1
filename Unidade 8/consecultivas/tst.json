@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "files": [
+        "public_tests.py"
+      ],
+      "type": "script",
+      "script": "python public_tests.py"
+    }
+  ],
+  "8441be4ce196eb5c3d263c578c2b5c49": {
+    "timestamp": "2016-09-14T17:00:53.091100",
+    "feedback": "",
+    "summary": "........"
+  },
+  "filename": "public_tests.py",
+  "tst_files": [],
+  "activity_revision": "2.0.1",
+  "key": "128C4241000000",
+  "last_commit": "8441be4ce196eb5c3d263c578c2b5c49",
+  "7cb02507c590482b236f4eed08503554": {
+    "timestamp": "2016-09-14T16:56:40.564280",
+    "feedback": "",
+    "summary": "..F....."
+  }
+}

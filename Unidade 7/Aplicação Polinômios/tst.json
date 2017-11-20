@@ -1,0 +1,17 @@
+{
+  "097b62a0def7af4f270beac01983054b": {
+    "timestamp": "2016-09-12T21:01:49.117130",
+    "feedback": "",
+    "summary": "...."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "p: -5 0 2 0 3\n10\n2\n0\np: 3 1\n100\n8\nfim\n",
+      "output": "novo polinomio\n30195\n51\n-5\nnovo polinomio\n103\n11\n"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "key": "1349B9A1000000",
+  "last_commit": "097b62a0def7af4f270beac01983054b"
+}

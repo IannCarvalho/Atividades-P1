@@ -1,0 +1,18 @@
+{
+  "f618db2a929941e9eb7e373c8fbb15f5": {
+    "timestamp": "2016-07-05T02:52:22.002390",
+    "feedback": "",
+    "summary": "........"
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "2\n5\n",
+      "name": "exemplo",
+      "output": "R$ 200.00\n"
+    }
+  ],
+  "activity_revision": "2.0.0",
+  "key": "15AD5EAE000000",
+  "last_commit": "f618db2a929941e9eb7e373c8fbb15f5"
+}

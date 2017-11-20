@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "5\n2\n3\n",
+      "output": "plof\n"
+    },
+    {
+      "category": "public",
+      "input": "4\n4\n4\n",
+      "output": "plif\n"
+    }
+  ],
+  "924142ed6f9e691491ce2c3a4b32e874": {
+    "timestamp": "2016-07-13T23:09:24.833810",
+    "feedback": "",
+    "summary": "....."
+  },
+  "activity_revision": "1.1.0",
+  "key": "10E05E36000000",
+  "last_commit": "924142ed6f9e691491ce2c3a4b32e874"
+}

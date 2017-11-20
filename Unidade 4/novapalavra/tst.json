@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "bola\n1234\n",
+      "output": "bbbbboooolllaa\n"
+    }
+  ],
+  "activity_revision": "1.1.3",
+  "bad363878152ea7288d60a5fb27c7de3": {
+    "timestamp": "2016-07-29T01:52:14.781690",
+    "feedback": "",
+    "summary": "........."
+  },
+  "key": "10F1F68E000000",
+  "last_commit": "bad363878152ea7288d60a5fb27c7de3"
+}

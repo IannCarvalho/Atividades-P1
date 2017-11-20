@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "Prog1\n",
+      "output": "<P> nao\n<r> nao\n<o> sim\n<g> nao\n<1> nao\n"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "d8fee8a9a6b269985d3b72fb2d9de9b4": {
+    "timestamp": "2016-07-25T13:25:46.532560",
+    "feedback": "",
+    "summary": "..."
+  },
+  "key": "11A04001000000",
+  "last_commit": "d8fee8a9a6b269985d3b72fb2d9de9b4"
+}

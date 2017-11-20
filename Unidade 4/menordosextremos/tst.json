@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "8\ncasa\nboneco\nlua\ntv\npintura\nfutebol\nsol\nbarata\n",
+      "output": "Menor palavra dos extremos: casa (4 letras)\n3 palavra(s) com tamanho menor\n4 palavra(s) com tamanho maior\n"
+    },
+    {
+      "category": "public",
+      "input": "4\ncasa\nlua\ntv\nbola\n",
+      "output": "Menor palavra dos extremos: casa, bola (4 letras)\n2 palavra(s) com tamanho menor\n0 palavra(s) com tamanho maior\n"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "5738f28a16bca42e644cebbd1a13889b": {
+    "timestamp": "2016-07-21T00:28:07.445020",
+    "feedback": "",
+    "summary": "......"
+  },
+  "key": "1743723E000000",
+  "last_commit": "5738f28a16bca42e644cebbd1a13889b"
+}

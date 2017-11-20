@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "9\n10\n10\n6\n17\n12\n14\n14\n7\n6\n23\n30\n",
+      "output": "M\u00e9dia mensal de atendimentos: 13.17\n----\nM\u00eas 5: 17\nM\u00eas 7: 14\nM\u00eas 8: 14\nM\u00eas 11: 23\nM\u00eas 12: 30\n"
+    }
+  ],
+  "b0becce5710bf3fd8b7215cab7da716f": {
+    "timestamp": "2016-08-10T00:23:39.158600",
+    "feedback": "",
+    "summary": "...."
+  },
+  "activity_revision": "1.1.0",
+  "key": "11B4E63E000000",
+  "last_commit": "b0becce5710bf3fd8b7215cab7da716f"
+}

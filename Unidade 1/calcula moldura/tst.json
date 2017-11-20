@@ -1,0 +1,18 @@
+{
+  "e9de412b4658e18e5d014a4f45094b32": {
+    "timestamp": "2016-07-05T13:19:48.264900",
+    "feedback": "",
+    "summary": "...."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "80\n100\n",
+      "name": "exemplo",
+      "output": "R$ 432.0\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "106D5EAE000000",
+  "last_commit": "e9de412b4658e18e5d014a4f45094b32"
+}

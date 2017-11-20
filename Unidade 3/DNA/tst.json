@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "AGCT\nTTTGGA\nACT\n",
+      "output": "ACT 3\n"
+    },
+    {
+      "category": "public",
+      "input": "CCGG\nCCAA\nACTGGG\n",
+      "output": "CCGG 4\n"
+    }
+  ],
+  "activity_revision": "1.1.1",
+  "7983a0fb29de1901bc8c9af1533dd6a0": {
+    "timestamp": "2016-07-14T20:51:57.365240",
+    "feedback": "",
+    "summary": "......."
+  },
+  "key": "17A7CDFE000000",
+  "last_commit": "7983a0fb29de1901bc8c9af1533dd6a0"
+}

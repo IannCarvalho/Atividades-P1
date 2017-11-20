@@ -1,0 +1,22 @@
+{
+  "3f5c92a951eb9bf2875e1c2d225add15": {
+    "timestamp": "2016-08-15T13:52:06.846170",
+    "feedback": "",
+    "summary": "...."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "101\n100\n",
+      "output": "ERRO\n"
+    },
+    {
+      "category": "public",
+      "input": "11011\n111010\n00\n11\n10\n",
+      "output": "ERRO\n"
+    }
+  ],
+  "activity_revision": "1.0.1",
+  "key": "129EEB3E000000",
+  "last_commit": "3f5c92a951eb9bf2875e1c2d225add15"
+}

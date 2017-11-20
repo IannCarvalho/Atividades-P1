@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "algo\n",
+      "output": "aallggoo\nsenha insegura\n"
+    }
+  ],
+  "d4cf4c46cca8b7daef40247c5b3500c5": {
+    "timestamp": "2016-07-27T21:23:58.339090",
+    "feedback": "",
+    "summary": "......."
+  },
+  "activity_revision": "1.1.1",
+  "key": "17F771EE000000",
+  "last_commit": "d4cf4c46cca8b7daef40247c5b3500c5"
+}

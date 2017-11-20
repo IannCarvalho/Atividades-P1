@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "um exemplo de frase\n1\n12\n",
+      "output": "m , e x e m p l o , d\n"
+    }
+  ],
+  "activity_revision": "1.1.1",
+  "8989977ab01b89b0488390193f4835e0": {
+    "timestamp": "2016-07-18T13:45:42.425160",
+    "feedback": "",
+    "summary": "....."
+  },
+  "key": "1194FBBE000000",
+  "last_commit": "8989977ab01b89b0488390193f4835e0"
+}

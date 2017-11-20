@@ -1,0 +1,11 @@
+# coding: utf-8
+# Único
+# Iann Carvalho, 2016 / Programação1
+
+def orginal(palavra):
+	nova_palavra=""
+	for i in range(len(palavra)-1):
+		if palavra[i] != palavra[i+1]:
+			nova_palavra += palavra[i]
+	nova_palavra += palavra[-1]
+	return nova_palavra

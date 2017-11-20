@@ -1,0 +1,37 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "2\n3\n12\n",
+      "output": "Total: R$ 42.0\n"
+    }
+  ],
+  "9f91382200ac424863ad6e0bbc96d8c3": {
+    "timestamp": "2016-07-05T23:44:28.539190",
+    "feedback": "",
+    "summary": "..."
+  },
+  "375423558b7f4cae714dcd58b68f5c80": {
+    "timestamp": "2016-07-05T23:23:18.149660",
+    "feedback": "",
+    "summary": ".FF"
+  },
+  "d8edc7c871a93bc9f43be46d1404251d": {
+    "timestamp": "2016-07-05T23:15:59.780540",
+    "feedback": "",
+    "summary": ".FF"
+  },
+  "activity_revision": "1.0.0",
+  "key": "12CE956E000000",
+  "last_commit": "9f91382200ac424863ad6e0bbc96d8c3",
+  "dd0d055b3c91f68f68cd72c7e8d5f6cc": {
+    "timestamp": "2016-07-05T23:25:44.674380",
+    "feedback": "",
+    "summary": ".FF"
+  },
+  "64f2f672799ed2cbc42eb0b89db478f6": {
+    "timestamp": "2016-07-05T23:17:49.746750",
+    "feedback": "",
+    "summary": "FF."
+  }
+}

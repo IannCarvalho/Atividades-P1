@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "6452.321\n24/10/1732\n5\n",
+      "output": "Data: 24/10/1732\nO valor total da compra foi de R$ 6452.32. A m\u00e9dia do pre\u00e7o dos produtos \u00e9 de 1290.5.\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "1389256E000000",
+  "last_commit": "3c3e1caaad1b7179b0a3a5496afc05e9",
+  "a6e6509f5f19d701e65d7322e4475ab0": {
+    "timestamp": "2016-07-06T02:32:20.818040",
+    "feedback": "",
+    "summary": "FFFF"
+  },
+  "3c3e1caaad1b7179b0a3a5496afc05e9": {
+    "timestamp": "2016-07-06T02:33:13.663740",
+    "feedback": "",
+    "summary": "...."
+  }
+}

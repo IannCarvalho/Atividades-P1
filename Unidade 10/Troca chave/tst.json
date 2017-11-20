@@ -1,0 +1,19 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "type": "script",
+      "script": "python public_tests.py"
+    }
+  ],
+  "filename": "public_tests.py",
+  "tst_files": [],
+  "7f48445e3059d2ee8937e2caa5f7d996": {
+    "timestamp": "2016-09-22T00:18:53.332680",
+    "feedback": "",
+    "summary": "......."
+  },
+  "activity_revision": "1.0.0",
+  "key": "14D58141000000",
+  "last_commit": "7f48445e3059d2ee8937e2caa5f7d996"
+}

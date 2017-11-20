@@ -1,0 +1,22 @@
+{
+  "27a1cb52e829aaeea5f26b3c98159977": {
+    "timestamp": "2016-07-25T13:14:58.878510",
+    "feedback": "",
+    "summary": "........"
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "ATCGAAGT\nATGCTTAT\n",
+      "output": "nao\n"
+    },
+    {
+      "category": "public",
+      "input": "ATCGAAGT\nAGCTAAGT\n",
+      "output": "sim\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "12F93C9E000000",
+  "last_commit": "27a1cb52e829aaeea5f26b3c98159977"
+}

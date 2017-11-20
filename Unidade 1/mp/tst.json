@@ -1,0 +1,28 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "10.0\n8.0\n6.0\n20\n40\n",
+      "name": "exemplo",
+      "output": "M\u00e9dia Final: 7.6\n"
+    }
+  ],
+  "307d2f60329da9b93e0766076c4905f4": {
+    "timestamp": "2016-07-04T14:03:08.427750",
+    "feedback": "",
+    "summary": "...v."
+  },
+  "67273ec9ecb7a4d499be5fecfa5f2bce": {
+    "timestamp": "2016-07-04T14:21:10.449180",
+    "feedback": "",
+    "summary": "....."
+  },
+  "activity_revision": "1.1.1",
+  "key": "10515CCE000000",
+  "last_commit": "67273ec9ecb7a4d499be5fecfa5f2bce",
+  "e024a888274b60b08816b229f83d3f10": {
+    "timestamp": "2016-07-04T14:01:17.221390",
+    "feedback": "",
+    "summary": "...v."
+  }
+}

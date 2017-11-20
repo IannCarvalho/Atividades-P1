@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "4\n8\n3\n9\n2\n0\n5\n-1\n",
+      "output": "[3, 2, 0]\n4\n[8, 9, 5]\n"
+    }
+  ],
+  "4e622c877538b5838faa59b1a40d2935": {
+    "timestamp": "2016-08-26T01:15:14.682150",
+    "feedback": "",
+    "summary": "......."
+  },
+  "activity_revision": "1.0.0",
+  "key": "1649B9A1000000",
+  "last_commit": "4e622c877538b5838faa59b1a40d2935",
+  "b0f2df94c7be53c1713405ce52feb26a": {
+    "timestamp": "2016-08-25T04:21:48.825430",
+    "feedback": "",
+    "summary": ".o...o."
+  }
+}

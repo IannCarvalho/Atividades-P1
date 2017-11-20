@@ -1,0 +1,17 @@
+{
+  "db2c3c93876a04f1227ffefc390867b8": {
+    "timestamp": "2016-07-05T13:32:05.893810",
+    "feedback": "",
+    "summary": ".."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "3.0\n4.0\n",
+      "output": "Medida do Cateto 1? Medida do Cateto 2? Medida da Hipotenusa: 5.00\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "146CCD6E000000",
+  "last_commit": "db2c3c93876a04f1227ffefc390867b8"
+}

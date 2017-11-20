@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "4\n6\n7\n15\n8\n",
+      "output": "soma: 14\nm\u00e9dia: 7.0\n1 n\u00famero(s) abaixo da m\u00e9dia\n"
+    }
+  ],
+  "54321b0a09e52192ed9d587a0815d1ce": {
+    "timestamp": "2016-07-27T00:30:58.670750",
+    "feedback": "",
+    "summary": "....F"
+  },
+  "a96cfc8ac73abcbd385dc0c9d5c03362": {
+    "timestamp": "2016-07-27T00:41:15.070840",
+    "feedback": "",
+    "summary": "....."
+  },
+  "activity_revision": "1.1.0",
+  "key": "16E78BCE000000",
+  "last_commit": "a96cfc8ac73abcbd385dc0c9d5c03362"
+}

@@ -1,0 +1,38 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "4\n2\n",
+      "name": "exemplo",
+      "output": "===== Operadores =====\nA = 4\nB = 2\nAdi\u00e7\u00e3o = 6\nSubtra\u00e7\u00e3o = 2\nMultiplica\u00e7\u00e3o = 8\nDivis\u00e3o = 2\nResto = 0\nExponencia\u00e7\u00e3o = 16\nNega\u00e7\u00e3o de A = -4\nA \u00e9 igual a B? False\nA \u00e9 diferente de B? True\nA \u00e9 maior que B? True\nB \u00e9 maior que A? False\nA \u00e9 menor ou igual a B? False\n"
+    }
+  ],
+  "bda996d39cbda25a0252a78a66a2f7c4": {
+    "timestamp": "2016-07-05T16:51:00.986660",
+    "feedback": "",
+    "summary": "....."
+  },
+  "d8f40d3a672bb7be4abbd722c17f5fcb": {
+    "timestamp": "2016-07-05T16:13:53.592250",
+    "feedback": "",
+    "summary": "*F*FF"
+  },
+  "293618067efde5a73007833465969f3b": {
+    "timestamp": "2016-07-05T16:17:24.534130",
+    "feedback": "",
+    "summary": "FFFFF"
+  },
+  "activity_revision": "1.2.0",
+  "c40610679207f06bec30d8df92088efe": {
+    "timestamp": "2016-07-05T16:22:18.525450",
+    "feedback": "",
+    "summary": "...FF"
+  },
+  "key": "1782A51E000000",
+  "last_commit": "bda996d39cbda25a0252a78a66a2f7c4",
+  "ff1055027844b08371c5ca17e1467ad3": {
+    "timestamp": "2016-07-05T16:39:00.108090",
+    "feedback": "",
+    "summary": "*****"
+  }
+}

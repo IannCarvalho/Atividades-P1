@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "6\n0.5\n",
+      "output": "Velocidade: 12.0km/h. Corredor aspirante.\n"
+    },
+    {
+      "category": "public",
+      "input": "6.0\n1.0\n",
+      "output": "Velocidade: 6.0km/h. Corredor amador.\n"
+    }
+  ],
+  "4006d7d6861ba90f487eb779199a17e5": {
+    "timestamp": "2016-07-14T19:35:58.483730",
+    "feedback": "",
+    "summary": "....."
+  },
+  "activity_revision": "1.0.4",
+  "key": "1731388E000000",
+  "last_commit": "4006d7d6861ba90f487eb779199a17e5"
+}

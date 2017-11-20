@@ -1,0 +1,32 @@
+{
+  "d6a370110261f2738b1b42f5c21e2a7f": {
+    "timestamp": "2016-07-15T02:48:43.285170",
+    "feedback": "",
+    "summary": "....FF."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "Herbicida\n30\n",
+      "output": "9 Herbicida(s). 900.00 reais.\n"
+    },
+    {
+      "category": "public",
+      "input": "Fungicida\n7\n",
+      "output": "1 Fungicida(s). 320.00 reais.\n"
+    }
+  ],
+  "f5c566ab14c60dbacbc574f6488ff5ac": {
+    "timestamp": "2016-07-15T02:15:42.988130",
+    "feedback": "",
+    "summary": "....FF."
+  },
+  "activity_revision": "1.1.1",
+  "key": "109A6C3E000000",
+  "last_commit": "d6a370110261f2738b1b42f5c21e2a7f",
+  "339f39556591c9fd3b04d197825fccd6": {
+    "timestamp": "2016-07-14T02:33:03.049130",
+    "feedback": "",
+    "summary": "....FF."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "1 1 1.2 1 1 1.1 2\n2 3 4 5 6\n",
+      "output": "A sequ\u00eancia 2 possui o maior desvio padr\u00e3o (1.58).\n"
+    },
+    {
+      "category": "public",
+      "input": "1 1\n1 1\n",
+      "output": "As sequ\u00eancias possuem o mesmo desvio padr\u00e3o (0.00).\n"
+    }
+  ],
+  "a89ffffd5388936f7c683feb2f1e366b": {
+    "timestamp": "2016-08-15T21:19:45.481260",
+    "feedback": "",
+    "summary": "....."
+  },
+  "activity_revision": "1.0.3",
+  "key": "13C3853E000000",
+  "last_commit": "a89ffffd5388936f7c683feb2f1e366b"
+}

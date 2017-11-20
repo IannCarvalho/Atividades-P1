@@ -1,0 +1,17 @@
+{
+  "5534794092edd9bd081d0f20701b6ba6": {
+    "timestamp": "2016-07-29T02:30:12.608060",
+    "feedback": "",
+    "summary": "......."
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "5\npizza\natum\ncoordenacao\nmartelo\ncostela\n",
+      "output": "2 palavra(s) com letras dobradas:\npizza\ncoordenacao\n---\n3 palavra(s) sem letras dobradas:\natum\nmartelo\ncostela\n"
+    }
+  ],
+  "activity_revision": "1.1.0",
+  "key": "178BC9EE000000",
+  "last_commit": "5534794092edd9bd081d0f20701b6ba6"
+}
